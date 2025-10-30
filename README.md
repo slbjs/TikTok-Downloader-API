@@ -1,4 +1,4 @@
-# 🎵 TikTok Downloader Public API
+# 🎵 TikTok Downloader API
 
 A free and simple TikTok video downloader API — no watermark, fast response, and full video metadata.
 
@@ -30,7 +30,7 @@ https://tdownv4.sl-bjs.workers.dev/?down=https://vt.tiktok.com/ZSr7brpo4/
     "audio_url": "https://v16-ies-music.tiktokcdn.com/.../audio.mp3"
   },
   "download_url": "https://v16m-default.tiktokcdn.com/.../video.mp4"
-}```
+}´´´
 
 ⚙️ Features
 
